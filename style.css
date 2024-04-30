@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+.bg-img {
+    background-image: url(imagini/gameplanet.png);
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+
+.content{
+    color: #266bac;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #266bac;
+}
